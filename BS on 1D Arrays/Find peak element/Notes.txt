@@ -1,0 +1,4 @@
+Brute force Solution :  O(N)
+- Traverse each and every element in array and then check element in front and back of the current one if both are different it means that is our element.
+Optimized Solution : O(logN)
+- See Code
